@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 My projects https://linktr.ee/nayak_pratheek_<br>🌱 I’m currently learning JavaScript, React Js, Java<br>👨‍💻 All of my projects are available at https://portfolio-gamma-one-30.vercel.app/<br>💬 Ask me about Web Development, C, Java<br>📫 How to reach me pratheeknayak2153@gmail.com
-<img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" alt="coding" width=400 align="right">
+<img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" alt="coding" width=350 align="right">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NayakPratheek&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NayakPratheek&theme=dark&hide_border=false)<br/>
