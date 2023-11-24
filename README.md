@@ -1,4 +1,4 @@
-[![Masterhead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://nayak-pratheek-portfolio.vercel.app/)
+
 # 💫 About Me:
 🔭 My projects https://linktr.ee/nayak_pratheek_<br>🌱 I’m currently learning JavaScript, React Js, Java<br>👨‍💻 My Portfolio https://nayak-pratheek-portfolio.vercel.app/<br>💬 Ask me about Web Development, C, Java<br>📫 How to reach me pratheeknayak2153@gmail.com
 <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" alt="coding" width=350 align="right" top="0">
