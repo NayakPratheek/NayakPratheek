@@ -19,4 +19,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=NayakPratheek&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+![snake gif](https://github.com/NayakPratheek/NayakPratheek/blob/output/github-contribution-grid-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
